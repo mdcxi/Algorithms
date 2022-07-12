@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Two Number Sum", "Two Number Sum\Two Number Sum.csproj", "{DC850FF6-A3AF-4E50-8D55-F4FF7D5054A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Validate Subsequence", "Validate Subsequence\Validate Subsequence.csproj", "{2D2FECEC-1C59-4931-A6AB-9E5E4D4CAE0F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{DC850FF6-A3AF-4E50-8D55-F4FF7D5054A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC850FF6-A3AF-4E50-8D55-F4FF7D5054A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC850FF6-A3AF-4E50-8D55-F4FF7D5054A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D2FECEC-1C59-4931-A6AB-9E5E4D4CAE0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D2FECEC-1C59-4931-A6AB-9E5E4D4CAE0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D2FECEC-1C59-4931-A6AB-9E5E4D4CAE0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D2FECEC-1C59-4931-A6AB-9E5E4D4CAE0F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

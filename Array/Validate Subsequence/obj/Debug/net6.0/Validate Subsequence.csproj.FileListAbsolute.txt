@@ -1,0 +1,15 @@
+D:\SmartGit\Algorithms\Array\Validate Subsequence\bin\Debug\net6.0\Validate Subsequence.exe
+D:\SmartGit\Algorithms\Array\Validate Subsequence\bin\Debug\net6.0\Validate Subsequence.deps.json
+D:\SmartGit\Algorithms\Array\Validate Subsequence\bin\Debug\net6.0\Validate Subsequence.runtimeconfig.json
+D:\SmartGit\Algorithms\Array\Validate Subsequence\bin\Debug\net6.0\Validate Subsequence.dll
+D:\SmartGit\Algorithms\Array\Validate Subsequence\bin\Debug\net6.0\Validate Subsequence.pdb
+D:\SmartGit\Algorithms\Array\Validate Subsequence\obj\Debug\net6.0\Validate Subsequence.csproj.AssemblyReference.cache
+D:\SmartGit\Algorithms\Array\Validate Subsequence\obj\Debug\net6.0\Validate Subsequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\SmartGit\Algorithms\Array\Validate Subsequence\obj\Debug\net6.0\Validate Subsequence.AssemblyInfoInputs.cache
+D:\SmartGit\Algorithms\Array\Validate Subsequence\obj\Debug\net6.0\Validate Subsequence.AssemblyInfo.cs
+D:\SmartGit\Algorithms\Array\Validate Subsequence\obj\Debug\net6.0\Validate Subsequence.csproj.CoreCompileInputs.cache
+D:\SmartGit\Algorithms\Array\Validate Subsequence\obj\Debug\net6.0\Validate Subsequence.dll
+D:\SmartGit\Algorithms\Array\Validate Subsequence\obj\Debug\net6.0\refint\Validate Subsequence.dll
+D:\SmartGit\Algorithms\Array\Validate Subsequence\obj\Debug\net6.0\Validate Subsequence.pdb
+D:\SmartGit\Algorithms\Array\Validate Subsequence\obj\Debug\net6.0\Validate Subsequence.genruntimeconfig.cache
+D:\SmartGit\Algorithms\Array\Validate Subsequence\obj\Debug\net6.0\ref\Validate Subsequence.dll
