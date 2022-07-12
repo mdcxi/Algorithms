@@ -1,0 +1,15 @@
+D:\SmartGit\Algorithms\Array\Two Number Sum\bin\Debug\net6.0\Two Number Sum.exe
+D:\SmartGit\Algorithms\Array\Two Number Sum\bin\Debug\net6.0\Two Number Sum.deps.json
+D:\SmartGit\Algorithms\Array\Two Number Sum\bin\Debug\net6.0\Two Number Sum.runtimeconfig.json
+D:\SmartGit\Algorithms\Array\Two Number Sum\bin\Debug\net6.0\Two Number Sum.dll
+D:\SmartGit\Algorithms\Array\Two Number Sum\bin\Debug\net6.0\Two Number Sum.pdb
+D:\SmartGit\Algorithms\Array\Two Number Sum\obj\Debug\net6.0\Two Number Sum.csproj.AssemblyReference.cache
+D:\SmartGit\Algorithms\Array\Two Number Sum\obj\Debug\net6.0\Two Number Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\SmartGit\Algorithms\Array\Two Number Sum\obj\Debug\net6.0\Two Number Sum.AssemblyInfoInputs.cache
+D:\SmartGit\Algorithms\Array\Two Number Sum\obj\Debug\net6.0\Two Number Sum.AssemblyInfo.cs
+D:\SmartGit\Algorithms\Array\Two Number Sum\obj\Debug\net6.0\Two Number Sum.csproj.CoreCompileInputs.cache
+D:\SmartGit\Algorithms\Array\Two Number Sum\obj\Debug\net6.0\Two Number Sum.dll
+D:\SmartGit\Algorithms\Array\Two Number Sum\obj\Debug\net6.0\refint\Two Number Sum.dll
+D:\SmartGit\Algorithms\Array\Two Number Sum\obj\Debug\net6.0\Two Number Sum.pdb
+D:\SmartGit\Algorithms\Array\Two Number Sum\obj\Debug\net6.0\Two Number Sum.genruntimeconfig.cache
+D:\SmartGit\Algorithms\Array\Two Number Sum\obj\Debug\net6.0\ref\Two Number Sum.dll
