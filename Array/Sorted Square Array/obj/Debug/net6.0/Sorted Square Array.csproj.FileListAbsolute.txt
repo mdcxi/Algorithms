@@ -1,0 +1,15 @@
+D:\SmartGit\Algorithms\Array\Sorted Square Array\bin\Debug\net6.0\Sorted Square Array.exe
+D:\SmartGit\Algorithms\Array\Sorted Square Array\bin\Debug\net6.0\Sorted Square Array.deps.json
+D:\SmartGit\Algorithms\Array\Sorted Square Array\bin\Debug\net6.0\Sorted Square Array.runtimeconfig.json
+D:\SmartGit\Algorithms\Array\Sorted Square Array\bin\Debug\net6.0\Sorted Square Array.dll
+D:\SmartGit\Algorithms\Array\Sorted Square Array\bin\Debug\net6.0\Sorted Square Array.pdb
+D:\SmartGit\Algorithms\Array\Sorted Square Array\obj\Debug\net6.0\Sorted Square Array.csproj.AssemblyReference.cache
+D:\SmartGit\Algorithms\Array\Sorted Square Array\obj\Debug\net6.0\Sorted Square Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\SmartGit\Algorithms\Array\Sorted Square Array\obj\Debug\net6.0\Sorted Square Array.AssemblyInfoInputs.cache
+D:\SmartGit\Algorithms\Array\Sorted Square Array\obj\Debug\net6.0\Sorted Square Array.AssemblyInfo.cs
+D:\SmartGit\Algorithms\Array\Sorted Square Array\obj\Debug\net6.0\Sorted Square Array.csproj.CoreCompileInputs.cache
+D:\SmartGit\Algorithms\Array\Sorted Square Array\obj\Debug\net6.0\Sorted Square Array.dll
+D:\SmartGit\Algorithms\Array\Sorted Square Array\obj\Debug\net6.0\refint\Sorted Square Array.dll
+D:\SmartGit\Algorithms\Array\Sorted Square Array\obj\Debug\net6.0\Sorted Square Array.pdb
+D:\SmartGit\Algorithms\Array\Sorted Square Array\obj\Debug\net6.0\Sorted Square Array.genruntimeconfig.cache
+D:\SmartGit\Algorithms\Array\Sorted Square Array\obj\Debug\net6.0\ref\Sorted Square Array.dll
