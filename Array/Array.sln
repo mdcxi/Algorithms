@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorted Square Array", "Sort
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TournamentWinner", "TournamentWinner\TournamentWinner.csproj", "{10D1C115-7890-46C0-B89D-07A4937719E8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Non-Constructible Change", "Non-Constructible Change\Non-Constructible Change.csproj", "{E0AD20AB-F7A3-430F-B88B-11BF18E83040}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{10D1C115-7890-46C0-B89D-07A4937719E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10D1C115-7890-46C0-B89D-07A4937719E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10D1C115-7890-46C0-B89D-07A4937719E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0AD20AB-F7A3-430F-B88B-11BF18E83040}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0AD20AB-F7A3-430F-B88B-11BF18E83040}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0AD20AB-F7A3-430F-B88B-11BF18E83040}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0AD20AB-F7A3-430F-B88B-11BF18E83040}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
