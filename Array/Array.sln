@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Non-Constructible Change", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Three Number Sum", "Three Number Sum\Three Number Sum.csproj", "{9FED6E32-F411-41AD-B828-1F48FEB4A703}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smallest Difference", "Smallest Difference\Smallest Difference.csproj", "{27CC3322-89F7-4462-AA78-68A3BDDA50D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{9FED6E32-F411-41AD-B828-1F48FEB4A703}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FED6E32-F411-41AD-B828-1F48FEB4A703}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FED6E32-F411-41AD-B828-1F48FEB4A703}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27CC3322-89F7-4462-AA78-68A3BDDA50D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27CC3322-89F7-4462-AA78-68A3BDDA50D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27CC3322-89F7-4462-AA78-68A3BDDA50D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27CC3322-89F7-4462-AA78-68A3BDDA50D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
