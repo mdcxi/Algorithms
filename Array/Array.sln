@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Three Number Sum", "Three N
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smallest Difference", "Smallest Difference\Smallest Difference.csproj", "{27CC3322-89F7-4462-AA78-68A3BDDA50D4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Move Element To End", "Move Element To End\Move Element To End.csproj", "{30D898EF-F980-4FF7-BF32-3E4EAE58468A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{27CC3322-89F7-4462-AA78-68A3BDDA50D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27CC3322-89F7-4462-AA78-68A3BDDA50D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27CC3322-89F7-4462-AA78-68A3BDDA50D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30D898EF-F980-4FF7-BF32-3E4EAE58468A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30D898EF-F980-4FF7-BF32-3E4EAE58468A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30D898EF-F980-4FF7-BF32-3E4EAE58468A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30D898EF-F980-4FF7-BF32-3E4EAE58468A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
