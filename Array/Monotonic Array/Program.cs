@@ -2,6 +2,7 @@
 
 public class Program
 {
+    //O(1)
     public static bool IsMonotonic(int[] array)
     {
         // Write your code here.
