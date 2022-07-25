@@ -16,6 +16,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smallest Difference", "Smal
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Move Element To End", "Move Element To End\Move Element To End.csproj", "{30D898EF-F980-4FF7-BF32-3E4EAE58468A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spiral Traverse", "Spiral Traverse\Spiral Traverse.csproj", "{8DE3548C-B9EE-4B9C-8F69-6BA4F649E015}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,5 +56,9 @@ Global
 		{30D898EF-F980-4FF7-BF32-3E4EAE58468A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30D898EF-F980-4FF7-BF32-3E4EAE58468A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30D898EF-F980-4FF7-BF32-3E4EAE58468A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DE3548C-B9EE-4B9C-8F69-6BA4F649E015}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DE3548C-B9EE-4B9C-8F69-6BA4F649E015}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DE3548C-B9EE-4B9C-8F69-6BA4F649E015}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DE3548C-B9EE-4B9C-8F69-6BA4F649E015}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
