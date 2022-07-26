@@ -28,6 +28,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array Of Products", "Array 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Merge Overlapping Intervals", "Merge Overlapping Intervals\Merge Overlapping Intervals.csproj", "{14CF8C32-C469-41F0-922E-6482B2D9DE1A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Four Number Sum", "Four Number Sum\Four Number Sum.csproj", "{85C49E2A-057A-4C5A-BAAD-3939E5E2424A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -90,5 +92,9 @@ Global
 		{14CF8C32-C469-41F0-922E-6482B2D9DE1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14CF8C32-C469-41F0-922E-6482B2D9DE1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14CF8C32-C469-41F0-922E-6482B2D9DE1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85C49E2A-057A-4C5A-BAAD-3939E5E2424A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85C49E2A-057A-4C5A-BAAD-3939E5E2424A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85C49E2A-057A-4C5A-BAAD-3939E5E2424A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85C49E2A-057A-4C5A-BAAD-3939E5E2424A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
