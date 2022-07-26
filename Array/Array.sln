@@ -26,6 +26,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Longest Peak", "Longest Pea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array Of Products", "Array Of Products\Array Of Products.csproj", "{95358D54-4B23-4371-A811-22733ED96CEE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Merge Overlapping Intervals", "Merge Overlapping Intervals\Merge Overlapping Intervals.csproj", "{14CF8C32-C469-41F0-922E-6482B2D9DE1A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +86,9 @@ Global
 		{95358D54-4B23-4371-A811-22733ED96CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95358D54-4B23-4371-A811-22733ED96CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95358D54-4B23-4371-A811-22733ED96CEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14CF8C32-C469-41F0-922E-6482B2D9DE1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14CF8C32-C469-41F0-922E-6482B2D9DE1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14CF8C32-C469-41F0-922E-6482B2D9DE1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14CF8C32-C469-41F0-922E-6482B2D9DE1A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
