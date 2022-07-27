@@ -32,6 +32,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Four Number Sum", "Four Num
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subarray Sort", "Subarray Sort\Subarray Sort.csproj", "{1427E942-261E-4738-A334-0DD56BE7F9A3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Largest Range", "Largest Range\Largest Range.csproj", "{8D434A77-34FC-45CA-96C1-6322303BD707}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -102,5 +104,9 @@ Global
 		{1427E942-261E-4738-A334-0DD56BE7F9A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1427E942-261E-4738-A334-0DD56BE7F9A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1427E942-261E-4738-A334-0DD56BE7F9A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D434A77-34FC-45CA-96C1-6322303BD707}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D434A77-34FC-45CA-96C1-6322303BD707}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D434A77-34FC-45CA-96C1-6322303BD707}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D434A77-34FC-45CA-96C1-6322303BD707}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
